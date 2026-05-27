@@ -33,7 +33,7 @@ aprendido en práctica.
 | **Config** | YAML, HCL, JSON |
 ---
 ## Proyectos por TP
-### 1 al 4 — Fundamentos
+### Mes 1
 | TP | Proyecto | Tecnologías | Link |
 |---|---|---|---|
 | 1 | Script de automatización del sistema | Bash, cron | [→ ver
@@ -44,7 +44,7 @@ repo](https://github.com/ariara899/devops-TP02) |
 repo](https://github.com/ariara899/devops-gitflow) |
 | 4 | YAML multi-entorno + diagnóstico de red | YAML, bash, ping, dig,
 curl | [→ ver repo](https://github.com/ariara899/devops-TP04) |
-### 5 al 8 — Contenedores y CI/CD
+### Mes 2
 | TP | Proyecto | Tecnologías | Link |
 |---|---|---|---|
 | 5 | API Python en Docker | Docker, Flask, Gunicorn | [→ ver
@@ -55,7 +55,7 @@ repo](https://github.com/ariara899/devops-TP06) |
 ver repo](https://github.com/ariara899/devops-TP06) |
 | 8 | Stack de monitoreo | Prometheus, Grafana, Node Exporter | [→ ver
 repo](https://github.com/ariara899/devops-TP08) |
-### 9 al 12 — Kubernetes e IaC
+### Mes 3
 | TP | Proyecto | Tecnologías | Link |
 |---|---|---|---|
 | 9 | App en Kubernetes | kubectl, Pods, Deployments, Services | [→ ver
